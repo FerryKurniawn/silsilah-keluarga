@@ -1,5 +1,3 @@
-import React from "react";
-
 function KeluargaSisko() {
   return (
     <div>

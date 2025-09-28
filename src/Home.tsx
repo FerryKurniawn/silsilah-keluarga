@@ -1,5 +1,3 @@
-import React from "react";
-
 function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-blue-100 flex flex-col items-center py-12 px-4">
